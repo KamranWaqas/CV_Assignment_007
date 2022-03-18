@@ -1,0 +1,53 @@
+.name {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkblue;
+    font-size: large;
+    background-color: lightcyan;
+
+  }
+
+
+
+  img {
+
+      float: right;
+      border-radius: 50%;
+    
+  }
+
+  .exp{
+  
+    border: 1px black;
+    border-style: solid;
+    border-radius: 5%;
+    height: 100%;
+    width: 100%;
+}
+
+.education{
+  
+    border: 1px black;
+    border-style: solid;
+    border-radius: 5%;
+    height: 100%;
+    width: 100%;
+}
+
+.skill{
+  
+    border: 1px black;
+    border-style: solid;
+    border-radius: 5%;
+    height: 100%;
+    width: 100%;
+}
+
+.hobby{
+  
+    border: 1px black;
+    border-style: solid;
+    border-radius: 5%;
+    height: 100%;
+    width: 100%;
+}
